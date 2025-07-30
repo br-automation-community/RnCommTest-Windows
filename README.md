@@ -14,4 +14,4 @@ Supported Protocols
 * OpcUa Client/server
 * OpcUa Publisher/Subscriber
 
-[**For a detailed description see this link**](https://github.com/br-automation-com/RnCommTest-Windows/blob/main/RnCommTest%20Hilfe.pdf)
+[**For a detailed description see this link**](https://github.com/br-automation-community/RnCommTest-Windows/blob/main/RnCommTest%20Hilfe.pdf)
